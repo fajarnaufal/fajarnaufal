@@ -11,7 +11,7 @@ Currently focusing on learning **Laravel**, **Mobile Development**, and experime
 ---
 
 ### 📊 GitHub Stats
-![Naufal's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default)
+![Naufal's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajarnaufal&show_icons=true&theme=default)
 
 ### 🔧 Languages & Tools
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
